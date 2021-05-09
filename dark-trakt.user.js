@@ -1,15 +1,14 @@
 // ==UserScript==
 // @name        Dark-Trakt
-// @namespace   https://github.com/sergeyhist/Trakt.tv-Hist-UserScripts/blob/main/dark-trakt.user.js
+// @namespace   https://github.com/sergeyhist/trakt-dark-mode/blob/main/dark-trakt.user.js
 // @match       *://trakt.tv/*
 // @grant       GM_addStyle
 // @version     2.6.1 
 // @author      Hist
 // @description Dark Theme for Trakt.tv
 // @run-at      document-start
-// @icon        https://github.com/sergeyhist/Trakt.tv-Hist-UserScripts/blob/main/logos/logo.png?raw=true
-// @downloadURL https://github.com/sergeyhist/Trakt.tv-Hist-UserScripts/raw/main/scripts/dark-trakt.user.js
-// @homepageURL https://github.com/sergeyhist/Trakt.tv-Hist-UserScripts
+// @downloadURL https://github.com/sergeyhist/trakt-dark-mode/raw/main/dark-trakt.user.js
+// @homepageURL https://github.com/sergeyhist/trakt-dark-mode
 // ==/UserScript==
 'use strict';
 var darkMode=`
