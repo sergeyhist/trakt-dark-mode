@@ -1,11 +1,11 @@
 // ==UserScript==
-// @name        Dark-Trakt
+// @name        Trak.tv Dark Mode
 // @namespace   https://github.com/sergeyhist/trakt-dark-mode/blob/main/dark-trakt.user.js
 // @match       *://trakt.tv/*
 // @grant       GM_addStyle
 // @version     2.6.1 
 // @author      Hist
-// @description Dark Theme for Trakt.tv
+// @description Dark theme for trakt.tv
 // @run-at      document-start
 // @downloadURL https://github.com/sergeyhist/trakt-dark-mode/raw/main/dark-trakt.user.js
 // @homepageURL https://github.com/sergeyhist/trakt-dark-mode
